@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{54483D41-1F84-4869-B736-C9AE518835E9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iosxamarin0725/Entitlements.plist">
+    <Files>
+      <File FileName="iosxamarin0725/AppDelegate.cs" Line="23" Column="9" />
+      <File FileName="iosxamarin0725/SecondViewController.cs" Line="14" Column="9" />
+      <File FileName="iosxamarin0725/Entitlements.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="iosxamarin0725" expanded="True">
+            <Node name="iosxamarin0725" expanded="True">
+              <Node name="Entitlements.plist" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.iosxamarin0725 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.4F8CD145-D042-4263-A648-A8F73E601BE7" />
+</Properties>

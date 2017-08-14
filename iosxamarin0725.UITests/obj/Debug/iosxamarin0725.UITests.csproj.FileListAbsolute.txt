@@ -1,0 +1,10 @@
+/Users/bys/Documents/Ava/xamarinios0725/iosxamarin0725.UITests/bin/Debug/iosxamarin0725.UITests.dll
+/Users/bys/Documents/Ava/xamarinios0725/iosxamarin0725.UITests/bin/Debug/iosxamarin0725.UITests.pdb
+/Users/bys/Documents/Ava/xamarinios0725/iosxamarin0725.UITests/bin/Debug/nunit.framework.dll
+/Users/bys/Documents/Ava/xamarinios0725/iosxamarin0725.UITests/bin/Debug/Xamarin.UITest.dll
+/Users/bys/Documents/Ava/xamarinios0725/iosxamarin0725.UITests/bin/Debug/nunit.framework.xml
+/Users/bys/Documents/Ava/xamarinios0725/iosxamarin0725.UITests/bin/Debug/Xamarin.UITest.xml
+/Users/bys/Documents/Ava/xamarinios0725/iosxamarin0725.UITests/obj/Debug/iosxamarin0725.UITests.csprojResolveAssemblyReference.cache
+/Users/bys/Documents/Ava/xamarinios0725/iosxamarin0725.UITests/obj/Debug/iosxamarin0725.UITests.csproj.CoreCompileInputs.cache
+/Users/bys/Documents/Ava/xamarinios0725/iosxamarin0725.UITests/obj/Debug/iosxamarin0725.UITests.dll
+/Users/bys/Documents/Ava/xamarinios0725/iosxamarin0725.UITests/obj/Debug/iosxamarin0725.UITests.pdb
